@@ -29,12 +29,14 @@ I am just starting my journey, but I am always open to new learnings and contrib
 ### Linguagens e Tecnologias ✅
 <br/>
  <img 
+  align="left"
   alt="SQL"
   title="SQL"
   width="30px"
   style="padding-rigt: 1px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img 
+  align="left"
   alt="Python"
   title="Python"
   width="30px"
