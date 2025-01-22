@@ -29,7 +29,6 @@ I am just starting my journey, but I am always open to new learnings and contrib
 ### Linguagens e Tecnologias ✅
 <br/>
  <img 
-  align="left"
   alt="SQL"
   title="SQL"
   width="30px"
