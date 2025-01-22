@@ -78,5 +78,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-ori
   width="30px"
   style="padding-rigt: 1px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<br/>
+<![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aline-Esposito&show_icons=true&theme=transparent)
 
 
