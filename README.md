@@ -35,42 +35,36 @@ I am just starting my journey, but I am always open to new learnings and contrib
   style="padding-rigt: 1px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img 
- align="left"
   alt="Python"
   title="Python"
   width="30px"
   style="padding-rigt: 1px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img 
- align="left"
   alt="GitHub"
   title="GitHub"
   width="30px"
   style="padding-rigt: 1px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img 
- align="left"
   alt="Git"
   title="Git"
   width="30px"
   style="padding-rigt: 1px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img 
- align="left"
   alt="Prisma"
   title="Prisma"
   width="30px"
   style="padding-rigt: 1px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
  <img 
- align="left"
   alt="Pycharm"
   title="Pycharm"
   width="30px"
   style="padding-rigt: 1px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
 <img 
-align="left"
   alt="Code"
   title="Code"
   width="30px"
