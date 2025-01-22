@@ -51,32 +51,31 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img 
  align="left"
-  alt="GitHub"
-  title="GitHub"
+  alt="Git"
+  title="Git"
   width="30px"
   style="padding-rigt: 1px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img 
  align="left"
-  alt="GitHub"
-  title="GitHub"
+  alt="Prisma"
+  title="Prisma"
   width="30px"
   style="padding-rigt: 1px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
  <img 
  align="left"
-  alt="GitHub"
-  title="GitHub"
+  alt="Pycharm"
+  title="Pycharm"
   width="30px"
   style="padding-rigt: 1px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-
- 
 <img 
 align="left"
-  alt="GitHub"
-  title="GitHub"
+  alt="Code"
+  title="Code"
   width="30px"
   style="padding-rigt: 1px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
 
