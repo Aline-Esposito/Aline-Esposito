@@ -14,16 +14,6 @@ My name is Aline Esposito, I am 27 years old, and I am Brazilian. I hold a Bache
 During my Master's, I had the opportunity to work with clinical statistics and explore the field of data, which sparked my interest in this area. Currently, I am pursuing a Bachelor's degree in Data Science at UNIVESP and specializing in the field through the course "Data Scientist Profession" at EBAC.
 I am just starting my journey, but I am always open to new learnings and contributions that can enrich my growth. Feel free to explore my projects and share your ideas 👋
 
- <p align="left">
-      <a href="https://github.com/Aline-Esposito?tab=followers">
-         <img alt="Seguidores" 
-         title="Siga-me no Github" 
-         src="https://custom-icon-badges.demolab.com/github/followers/Aline-Esposito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/></a>
-      <a href="https://github.com/Aline-Esposito?tab=repositories&sort=stargazers">
-         <img alt="Total de Estrelas" 
-         title="Total de entrelas GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/stars/Aline-Esposito?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/></a>
-   </p>
 
 ---
 ### Linguagens e Tecnologias ✅
